@@ -13,6 +13,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ## Flixster Part 2
 User can tap a cell to see more details about a particular movie.
+
 User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 <img src="https://media.giphy.com/media/JsVBdd57pyvuKmziN6/giphy.gif" width=250><br>
 
